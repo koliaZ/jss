@@ -29,7 +29,8 @@
     "react": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
-    "lodash.foreach": "^3.0.3"
+    "lodash.foreach": "^3.0.3",
+    "prop-types": "^15.6.1"
   },
   "devDependencies": {
     "babel": "^5.8.23",
@@ -37,6 +38,6 @@
     "eslint": "^1.6.0",
     "eslint-config-relax": "^1.0.4",
     "eslint-plugin-react": "^3.5.1",
-    "react": "^0.14.0 || ^15.0.0"
+    "react": "^16.2.0"
   }
 }
